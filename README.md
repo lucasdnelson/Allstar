@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
 <title>yes</title>
 <style>
 h1{
