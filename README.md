@@ -21,7 +21,7 @@ h1{
                 75% {background:linear-gradient(to right, red, yellow);}
                 100%  {background:linear-gradient(to right, violet, yellow);}
 }
-body{
+.b1{
                 animation-name:bkg;
                 animation-duration: 4s;
                 animation-iteration-count:infinite;
@@ -29,7 +29,7 @@ body{
 </style>
 </head>
  
-<body>
+<body class="b1">
 <h1>Yes.</h1>
 </body>
 </html>
