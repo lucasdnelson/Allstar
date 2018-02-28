@@ -12,8 +12,7 @@ h1{
                 font-size:10em;
                 font-family:sans-serif;
                 font-weight:bold;
-                color:#fff
-}
+                color:#fff}
 @keyframes bkg {
                 0%  {background:linear-gradient(to right, violet, yellow);}
                 25% {background:linear-gradient(to right, violet, blue);}
