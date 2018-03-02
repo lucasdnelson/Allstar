@@ -1,6 +1,5 @@
 
 <head>
-<title>yes</title>
 <style>
 h1{
                 position:absolute;
@@ -19,7 +18,7 @@ h1{
                 75% {background:linear-gradient(to right, red, yellow);}
                 100%  {background:linear-gradient(to right, violet, yellow);}
 }
-.b1{
+body{
                 animation-name:bkg;
                 animation-duration: 4s;
                 animation-iteration-count:infinite;
@@ -27,6 +26,6 @@ h1{
 </style>
 </head>
  
-<body class="b1">
+<body>
 <h1>Yes.</h1>
 </body>
