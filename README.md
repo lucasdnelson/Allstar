@@ -30,5 +30,10 @@ h1{
  
 <body class="b1">
 <h1>Yes.</h1>
+  <button onclick="myFunction()">Click Me</button>
+
+<div id="myDIV">
+  This is my DIV element.
+</div>
 </body>
 </html>
